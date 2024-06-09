@@ -17,7 +17,7 @@ Projeto feito junto com o Dev em Dobro na Semana do Zero ao Programador no Proje
 <br>
 
 <p align="center">
-  <img alt="projeto X-devs" src="./assets/img/#" width="100%">
+  <img alt="projeto X-devs" src="./src/img/layout.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
